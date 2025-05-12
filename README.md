@@ -5,6 +5,6 @@ The challenges-and-data-structures repository collects coding challenges and dat
 ## Whiteboard Images
 
 ### Challenge A: Array Reversal
-![Array Reversal](https:Ghassan-Omar/challenges-and-data-structures/main/array-reversal.jpg)
+![Array Reversal](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/array-reversal.jpg)
 ### Challenge B: Most Frequent Number
 ![Most Frequent Number Whiteboard](whiteboard-challenges/most-frequent-number.png)
