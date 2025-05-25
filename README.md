@@ -10,3 +10,5 @@ The challenges-and-data-structures repository collects coding challenges and dat
 ![Most Frequent Number Whiteboard](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/most-frequent-number.jpg)
 ### Challenge 2: Minimum Value
 ![Minimum-Value](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/Minimum-Value.png)
+### Challenge 3: Reverse Characters
+![Reverse Characters](../Reverse-Characters.png)
