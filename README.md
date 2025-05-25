@@ -11,4 +11,6 @@ The challenges-and-data-structures repository collects coding challenges and dat
 ### Challenge 2: Minimum Value
 ![Minimum-Value](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/Minimum-Value.png)
 ### Challenge 3: Reverse Characters
+#### Challenge  Description: a function called ReverseCharacters that takes a single string as input. Without using any built-in methods, The function should return the string with all characters
+reversed.
 ![Reverse Characters](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/Reverse-Characters.png)
