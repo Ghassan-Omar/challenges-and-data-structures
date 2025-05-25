@@ -11,4 +11,4 @@ The challenges-and-data-structures repository collects coding challenges and dat
 ### Challenge 2: Minimum Value
 ![Minimum-Value](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/Minimum-Value.png)
 ### Challenge 3: Reverse Characters
-![Reverse Characters](../Reverse-Characters.png)
+![Reverse Characters](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/Reverse-Characters.png)
