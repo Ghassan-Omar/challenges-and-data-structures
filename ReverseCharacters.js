@@ -1,7 +1,9 @@
+
+
 function ReverseCharacters(strings) {
     let reversedString = '';
     for (let i = strings.length - 1; i >= 0; i--) {
-        reversedString += str[i];
+        reversedString += strings[i];
     }
     return reversedString;
 }
