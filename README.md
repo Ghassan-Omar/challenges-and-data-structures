@@ -25,5 +25,4 @@ This challenge aims to remove the middle value from a given dataset, such as an 
 - **Step 2:** Identify the middle index.
 - **Step 3:** Remove the middle value efficiently.
 - **Step 4:** Return the updated dataset.
-  
-![Solution Flow]("../Remove-Middle-Value.jpg")
+![Remove Middle Value.](Downloads/whiteboard-challenges/Remove Middle Value/Remove-Middle-Value.jpg)
