@@ -10,4 +10,4 @@ The goal of this challenge is to remove the middle value from a given dataset, s
 - **Step 4:** Return the updated dataset.
 
 ## Whiteboard Image
-![Remove-Middle-Value]("Downloads/whiteboard-challenges/Remove Middle Value/Remove-Middle-Value.jpg")
+![Remove-Middle-Value]("./Remove-Middle-Value.jpg")
