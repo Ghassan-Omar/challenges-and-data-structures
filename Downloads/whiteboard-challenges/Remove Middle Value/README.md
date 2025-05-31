@@ -1,4 +1,4 @@
-# Remove Middle Value
+# Challenge 4: Remove Middle Value
 
 ## Challenge Description
 The goal of this challenge is to remove the middle value from a given dataset, such as an array or a linked list. If the dataset has an even number of elements, the function should remove the lower middle value.
@@ -10,4 +10,4 @@ The goal of this challenge is to remove the middle value from a given dataset, s
 - **Step 4:** Return the updated dataset.
 
 ## Whiteboard Image
-![Solution Flow]("../Remove-Middle-Value.jpg")
+![Remove-Middle-Value]("Downloads/whiteboard-challenges/Remove Middle Value/Remove-Middle-Value.jpg")
