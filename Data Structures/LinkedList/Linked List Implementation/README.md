@@ -43,7 +43,7 @@ This project implements a singly linked list data structure in JavaScript. A lin
 ## Visual
 
 ![Whiteboard Diagram](./whiteboard.png)
-![Whiteboard Add Method](./add=method.png)
+![Whiteboard Add Method](./addmethod.png)
 ## Algorithm
 
 ### Node Class
