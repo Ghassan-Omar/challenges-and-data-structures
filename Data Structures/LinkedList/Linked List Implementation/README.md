@@ -46,7 +46,7 @@ This project implements a singly linked list data structure in JavaScript. A lin
 
 ### Add method
 
-![Whiteboard Add Method](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/Data-Structures/LinkedList/Linked-List-Implementation/main/add-method.png)
+![Whiteboard Add Method](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/Data-Structures/LinkedList/Linked-List-Implementation/add-method.png)
 
 ## Algorithm
 
