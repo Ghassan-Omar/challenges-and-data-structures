@@ -5,15 +5,15 @@ The challenges-and-data-structures repository collects coding challenges and dat
 ## Whiteboard Images
 
 ## Challenge 1. A: Array Reversal
-![Array Reversal](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/array-reversal.jpg)
+![Array Reversal](array-reversal.jpg)
 ## Challenge 1. B: Most Frequent Number
-![Most Frequent Number Whiteboard](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/most-frequent-number.jpg)
+![Most Frequent Number Whiteboard](most-frequent-number.jpg)
 ## Challenge 2: Minimum Value
-![Minimum-Value](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/Minimum-Value.png)
+![Minimum-Value](Minimum-Value.png)
 ## Challenge 3: Reverse Characters
 #### Challenge  Description: A function called ReverseCharacters takes a single string as input. Without using any built-in methods, the function should return the string with all characters
 reversed.
-![Reverse Characters](https://raw.githubusercontent.com/Ghassan-Omar/challenges-and-data-structures/main/Reverse-Characters.png)
+![Reverse Characters](Reverse-Characters.png)
 
 ## Challenge 4: Remove Middle Value
 
@@ -25,4 +25,6 @@ This challenge aims to remove the middle value from a given dataset, such as an 
 - **Step 2:** Identify the middle index.
 - **Step 3:** Remove the middle value efficiently.
 - **Step 4:** Return the updated dataset.
-![Remove Middle Value.](Remove-Middle-Value.jpg)
+![Remove Middle Value.](Remove-Middle-Value.jpg")
+
+- [Linked List Implementation](./Data%20Structures/LinkedList/Linked-List-Implementation/README.md)
