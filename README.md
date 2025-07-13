@@ -8,11 +8,11 @@ The challenges-and-data-structures repository collects coding challenges and dat
 Without using any built-in methods, return a new array where the elements are in
 the reverse order.
 
-![Array Reversal](./array-reversal.jpg)
+![Array Reversal](whiteboard-challenges/array-reversal.jpg)
 
 ### Challenge 1. B: Most Frequent Number: A method that takes an integer array and returns the number that
 appears the most times. If there are no duplicates, return the first number in
 the array. If more than one number shows up the same number of times,
 return the first found.
 
-![Most Frequent Number Whiteboard](./most-frequent-number.jpg)
+![Most Frequent Number Whiteboard](whiteboard-challenges/most-frequent-number.jpg)
