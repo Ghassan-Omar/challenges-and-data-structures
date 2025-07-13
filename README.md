@@ -16,3 +16,6 @@ the array. If more than one number shows up the same number of times,
 return the first found.
 
 ![Most Frequent Number Whiteboard](whiteboard-challenges/most-frequent-number.jpg)
+
+## Challenge 2: Minimum Value
+![Minimum-Value](whiteboard-challenges/Minimum-Value.png)
