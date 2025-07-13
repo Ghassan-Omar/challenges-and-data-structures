@@ -4,5 +4,5 @@
 
 reversed.
 
-!\[Reverse Characters](Reverse-Characters/Reverse-Characters.png)
+!\[Reverse Characters](./Reverse-Characters.png)
 
