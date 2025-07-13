@@ -19,3 +19,8 @@ return the first found.
 
 ## Challenge 2: Minimum Value
 ![Minimum-Value](whiteboard-challenges/Minimum-Value.png)
+
+## Challenge 3: Reverse Characters
+#### Challenge  Description: A function called ReverseCharacters takes a single string as input. Without using any built-in methods, the function should return the string with all characters
+reversed.
+![Reverse Characters](Reverse-Characters/Reverse-Characters.png)
