@@ -16,3 +16,11 @@ the array. If more than one number shows up the same number of times,
 return the first found.
 
 ![Most Frequent Number Whiteboard](whiteboard-challenges/most-frequent-number.jpg)
+
+## Challenge 2: Minimum Value
+![Minimum-Value](whiteboard-challenges/Minimum-Value.png)
+
+## Challenge 3: Reverse Characters
+#### Challenge  Description: A function called ReverseCharacters takes a single string as input. Without using any built-in methods, the function should return the string with all characters
+reversed.
+![Reverse Characters](./Reverse-Characters.png)
