@@ -1,0 +1,30 @@
+{
+  "name": "bst-assignment-js",
+  "version": "1.0.0",
+  "description": "Binary Search Tree implementation in JavaScript with comprehensive testing",
+  "main": "src/BinarySearchTree.js",
+  "scripts": {
+    "test": "node ./tests/testBinarySearchTree.js",
+    "start": "node src/BinarySearchTree.js"
+  },
+  "keywords": [
+    "binary-search-tree",
+    "data-structures",
+    "javascript",
+    "algorithms",
+    "tree",
+    "bst"
+  ],
+  "author": "Student",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ghassan-Omar/challenges-and-data-structures.git"
+  },
+  
+  "homepage": "https://github.com/Ghassan-Omar/challenges-and-data-structures.git"
+}
+
